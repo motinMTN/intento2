@@ -12,4 +12,4 @@ class ConnectController extends Controller
 }
 
 //Que hay
-//Motin y victor
+//Fausto y victor
