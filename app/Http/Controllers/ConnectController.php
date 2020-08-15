@@ -10,3 +10,5 @@ class ConnectController extends Controller
         return view('connect.login');
     }
 }
+
+//Que hay
